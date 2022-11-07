@@ -1,0 +1,2 @@
+2022-11-07 11:01:39.161  WARN 8704 --- [Test worker] c.a.belajarspringlogging.LoggingTest     : Belajar Spring
+2022-11-07 11:01:39.162 ERROR 8704 --- [Test worker] c.a.belajarspringlogging.LoggingTest     : Belajar Bersama Programmer Zaman Now
